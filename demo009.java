@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Demo009 {
+public class demo009 {
     String Cust_Name = "dileep";
     long Account_no = 123456;
     Double Balance = 10000.00;
